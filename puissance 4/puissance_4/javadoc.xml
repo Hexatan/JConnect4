@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="libs/tween-engine-api.jar;E:\Users\gaetan\H2014_420-624-MT_ProjetGraphique_PuissanceQuatre\libgdx-0.9.9\extensions\gdx-tools\gdx-tools.jar;libs/gdx.jar" destdir="doc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="com.me.puissance4,com.me.puissance4.Model,com.me.puissance4.Reseau,com.me.puissance4.Screen,com.me.puissance4.Listener,com.me.puissance4.Tween" source="1.7" sourcepath="src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="assets"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="libs/gdx.jar" sourcepath="libs/gdx-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/E:/Users/gaetan/H2014_420-624-MT_ProjetGraphique_PuissanceQuatre/libgdx-0.9.9/docs/api/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="libs/tween-engine-api.jar" sourcepath="libs/tween-engine-api-sources.jar"/>
+	<classpathentry kind="lib" path="/puissance_4-desktop/libs/gdx-backend-lwjgl.jar" sourcepath="/puissance_4-desktop/libs/gdx-backend-lwjgl-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/commons-validator-1.4.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
