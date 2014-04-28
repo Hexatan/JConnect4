@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/gduvaux/AndroidStudioProjects/Puissance4/android/assets" >
+            <file
+                name="badlogic.jpg"
+                path="/Users/gduvaux/AndroidStudioProjects/Puissance4/android/assets/badlogic.jpg" />
+            <file
+                name="Textures/fond.png"
+                path="/Users/gduvaux/AndroidStudioProjects/Puissance4/android/assets/Textures/fond.png" />
+            <file
+                name="Textures/texture.atlas"
+                path="/Users/gduvaux/AndroidStudioProjects/Puissance4/android/assets/Textures/texture.atlas" />
+            <file
+                name="Fonts/black_1.tga"
+                path="/Users/gduvaux/AndroidStudioProjects/Puissance4/android/assets/Fonts/black_1.tga" />
+            <file
+                name="Textures/texture.pack"
+                path="/Users/gduvaux/AndroidStudioProjects/Puissance4/android/assets/Textures/texture.pack" />
+            <file
+                name="Textures/pionB.png"
+                path="/Users/gduvaux/AndroidStudioProjects/Puissance4/android/assets/Textures/pionB.png" />
+            <file
+                name="Sound/placement.mp3"
+                path="/Users/gduvaux/AndroidStudioProjects/Puissance4/android/assets/Sound/placement.mp3" />
+            <file
+                name="Textures/texture.png"
+                path="/Users/gduvaux/AndroidStudioProjects/Puissance4/android/assets/Textures/texture.png" />
+            <file
+                name="Sound/11266.mp3"
+                path="/Users/gduvaux/AndroidStudioProjects/Puissance4/android/assets/Sound/11266.mp3" />
+            <file
+                name="Textures/boutonpress.9.png"
+                path="/Users/gduvaux/AndroidStudioProjects/Puissance4/android/assets/Textures/boutonpress.9.png" />
+            <file
+                name="Textures/vide.png"
+                path="/Users/gduvaux/AndroidStudioProjects/Puissance4/android/assets/Textures/vide.png" />
+            <file
+                name="Textures/SplashScreen.png"
+                path="/Users/gduvaux/AndroidStudioProjects/Puissance4/android/assets/Textures/SplashScreen.png" />
+            <file
+                name="Fonts/black.fnt"
+                path="/Users/gduvaux/AndroidStudioProjects/Puissance4/android/assets/Fonts/black.fnt" />
+            <file
+                name="Fonts/font_1.tga"
+                path="/Users/gduvaux/AndroidStudioProjects/Puissance4/android/assets/Fonts/font_1.tga" />
+            <file
+                name="Fonts/white.bmfc"
+                path="/Users/gduvaux/AndroidStudioProjects/Puissance4/android/assets/Fonts/white.bmfc" />
+            <file
+                name="Fonts/black_0.tga"
+                path="/Users/gduvaux/AndroidStudioProjects/Puissance4/android/assets/Fonts/black_0.tga" />
+            <file
+                name="Fonts/font.fnt"
+                path="/Users/gduvaux/AndroidStudioProjects/Puissance4/android/assets/Fonts/font.fnt" />
+            <file
+                name="Textures/pion.pack"
+                path="/Users/gduvaux/AndroidStudioProjects/Puissance4/android/assets/Textures/pion.pack" />
+            <file
+                name="Textures/SplashScreen2.png"
+                path="/Users/gduvaux/AndroidStudioProjects/Puissance4/android/assets/Textures/SplashScreen2.png" />
+            <file
+                name="Fonts/font_0.tga"
+                path="/Users/gduvaux/AndroidStudioProjects/Puissance4/android/assets/Fonts/font_0.tga" />
+            <file
+                name="Textures/bouton.9.png"
+                path="/Users/gduvaux/AndroidStudioProjects/Puissance4/android/assets/Textures/bouton.9.png" />
+            <file
+                name="Textures/pion.png"
+                path="/Users/gduvaux/AndroidStudioProjects/Puissance4/android/assets/Textures/pion.png" />
+            <file
+                name="Fonts/black.bmfc"
+                path="/Users/gduvaux/AndroidStudioProjects/Puissance4/android/assets/Fonts/black.bmfc" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/gduvaux/AndroidStudioProjects/Puissance4/android/src/debug/assets" />
+    </dataSet>
+
+</merger>
